@@ -1,4 +1,4 @@
-# Apache Camel Examples
+# Apache Camel examples
 12 cases of use Apache Camel Framework
 
 1. Hello world
