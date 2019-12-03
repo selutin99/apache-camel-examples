@@ -13,7 +13,6 @@ public class FileCopy {
             @Override
             public void configure() throws Exception {
                 from("file:input_folder?noop=true")
-                .log("Copy input ")
                 .to("file:output_folder");
             }
         });
