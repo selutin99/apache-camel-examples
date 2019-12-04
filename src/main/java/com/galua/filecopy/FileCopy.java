@@ -12,8 +12,8 @@ public class FileCopy {
         context.addRoutes(new RouteBuilder() {
             @Override
             public void configure() throws Exception {
-                from("file:input_folder?noop=true")
-                .to("file:output_folder");
+            from("file:input_folder?noop=true")
+            .to("file:output_folder");
             }
         });
 
