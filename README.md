@@ -4,8 +4,8 @@
 1. Hello world
 2. File copy
 3. Producer Consumer
-4. Routes Processor
-5. Exchange Object
+4. Routes Processor (on the example of case #3)
+5. Exchange Object (on the example of case #3)
 6. Setting up ActiveMQ Server
 7. Sending File to ActiveMQ Server
 8. Sending Object to ActiveMQ Server
