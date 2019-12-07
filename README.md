@@ -10,5 +10,5 @@
 7. Sending Object to ActiveMQ Server
 8. Consuming Message from ActiveMQ Server
 9. Calling a method using class component
-10. Calling a method using bean component
+10. Calling a method using bean component (on the example of case #9)
 11. JDBC example
